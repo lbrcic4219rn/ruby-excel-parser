@@ -1,4 +1,4 @@
-# SheetQuery
+# Ruby Excel Parser
 
 An elegant, object-oriented Ruby wrapper built on top of the `roo` gem. It simplifies spreadsheet manipulation by converting Excel columns and rows into dynamic, queryable Ruby objects, abstracting away clunky matrix arrays into native, intuitive Ruby code.
 
